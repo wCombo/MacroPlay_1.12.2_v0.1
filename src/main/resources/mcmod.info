@@ -1,0 +1,16 @@
+[
+{
+  "modid": "macroplay",
+  "name": "MacroPlay",
+  "description": "Como Tiny Task, pero para Minecraft.\n",
+  "version": "0.6",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ComboNOBBI"],
+  "credits": ""
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
